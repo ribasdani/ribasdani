@@ -1,4 +1,4 @@
-### Prazer, eu sou a Daniela Ribas uma estudante de Desenvolvimento de sistemas ainda no primeiro ano...
+### Prazer, eu sou a Daniela Ribas uma estudante do primeiro de Desenvolvimento de sistemas 
 
 - 🔭 No momento estudo front-end;
 - 👯 Procuro trabalhar com MYSQL;
