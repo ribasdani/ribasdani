@@ -1,7 +1,6 @@
-### Muito prazer, eu sou a Daniela Ribas uma estudante do primeiro de Desenvolvimento de Sistemas 
+### Muito prazer, eu sou a Daniela Ribas uma estudante de Desenvolvimento de Sistemas 
 
 -> 📚 No momento estudo front-end;
--> 👩‍💻 Procuro trabalhar com MYSQL;
 -> ☁ Pronomes: Ela/dela.
 
 <div align="center">
